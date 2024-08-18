@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Bruno Rodrigues</h1>
+<h1 align="left">Olá, meu nome é Bruno Rodrigues</h1>
 
 ###
 
